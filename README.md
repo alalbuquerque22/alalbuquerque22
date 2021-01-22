@@ -12,5 +12,3 @@ I'm a {backend, frontend and mobile} developer and coffee drinker ☕
 - React Native 📱
 - React js 🌐
 - Node Js 💻
-
-- [Website](https://nutrikarine.netlify.app//) 💻 - Working on my wife blog 👰
