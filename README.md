@@ -5,7 +5,7 @@
 
 ### About me
 
-I'm a {mobile, backend and frontend} developer and coffee drinker ☕
+I'm a (mobile 📱, backend 🖥 and frontend 💻) developer and coffee drinker ☕
 Working at [@Lógica Sistemas](https://logicasistemas.com.br/).
 
 #### Studant at [@coder](https://https://www.cod3r.com.br//).
