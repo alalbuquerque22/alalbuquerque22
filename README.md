@@ -6,7 +6,7 @@
 ### About me
 
 I'm a (mobile 📱, backend 🖥 and frontend 💻) developer and coffee drinker ☕
-Working at [@CTSI](https://ctsi.com.br/).
+Working at [@IBM](https://www.ibm.com/).
 
 #### Studant at [@coder](https://https://www.cod3r.com.br//).
 
