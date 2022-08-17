@@ -13,3 +13,6 @@ Working at [@IBM](https://www.ibm.com/).
 - React Native 📱
 - React js 🌐
 - Node Js 💻
+- Graphql 📊
+- Android 🤖
+- Typescript ʦ
