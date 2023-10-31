@@ -5,7 +5,7 @@
 
 ### About me
 
-I'm a (mobile 📱, backend 🖥 and frontend 💻) developer and coffee drinker ☕
+I'm a (Mobile 📱, Backend 🖥 and frontend Web 💻) developer and coffee drinker ☕
 Working at [@IBM](https://www.ibm.com/).
 
 #### Studant at [@coder](https://https://www.cod3r.com.br//).
